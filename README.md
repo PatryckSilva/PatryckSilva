@@ -7,7 +7,7 @@
 <div align="center">
  
   
-  | [![github repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatryckSilva&theme=apprentice) ](https://github.com/vn7n24fzkq/github-profile-summary-cards)| [ ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatryckSilva&theme=apprentice) |  
+  | [![github repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatryckSilva&theme=apprentice) ](https://github.com/vn7n24fzkq/github-profile-summary-cards)|  ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatryckSilva&theme=apprentice) |  
  | ----------- | ----------- |
 
 </div>
