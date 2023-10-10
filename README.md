@@ -10,6 +10,12 @@
   
 </div>
 
+<div align="center" >
+
+![Status](./profile-3d-contrib/profile-night-green.svg)
+ 
+</div>
+
  <div align="center" >
 <a href="https://skillicons.dev/">
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,github,materialui,styledcomponents,postgres,discord,linkedin,instagram" />
