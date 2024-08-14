@@ -4,9 +4,16 @@
 
 </div> 
 
+## About Me
+
+- Exploring new technologies and developing software solutions.
+- Working as a Full Stack Developer at [Apex NFT Brasil](https://www.apexstudio.io/).
+- Learning more about Web3 and blockchain technologies.
+- Since 2021, I have been creating high-quality solutions in the Web3 world.
+
+## Activity
 <div align="center">
- 
-  
+
   | [![github repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatryckSilva&theme=apprentice) ](https://github.com/vn7n24fzkq/github-profile-summary-cards)|  ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatryckSilva&theme=apprentice) |  
  | ----------- | ----------- |
 
@@ -18,13 +25,16 @@
  
 </div>
 
- <div align="center" >
+## My Skills
+
+- Proficient in Node.js, React.js, and Next.js with a strong command of TypeScript.
+
+
+## Languages and Tools
 <a href="https://skillicons.dev/">
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,github,materialui,styledcomponents,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,github,styledcomponents,postgres" />
 </a>
-  <br />
-  </div>
-<br/>
-<div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=PatryckSilva&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
+
+## Find me
+
+[![Linkedin](https://img.shields.io/badge/-patrycksilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/patryck-silva/)](www.linkedin.com/in/patryck-silva/)
