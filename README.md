@@ -9,7 +9,7 @@
 - Exploring new technologies and developing software solutions.
 - Working as a Full Stack Developer at [Apex NFT Brasil](https://www.apexstudio.io/).
 - Learning more about Web3 and blockchain technologies.
-- Since 2021, I have been creating high-quality solutions in the Web3 world.
+- Since 2022, I have been creating high-quality solutions in the Web3 world.
 
 ## Activity
 <div align="center">
