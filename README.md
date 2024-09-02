@@ -30,10 +30,10 @@
 - Proficient in Node.js, React.js, and Next.js with a strong command of TypeScript.
 
 
-## Languages and Tools
-<a href="https://skillicons.dev/">
+<details>
+  <summary><h2><b> Languages and Tools</b></h2></summary>
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,github,styledcomponents,postgres" />
-</a>
+</details>
 
 ## Find me
 
