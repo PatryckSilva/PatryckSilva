@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,github,styledcomponents,postgres" />
 </details>
 
-## Find me
+<!-- ## Find me -->
 
-[![Linkedin](https://img.shields.io/badge/-patrycksilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/patryck-silva/)](www.linkedin.com/in/patryck-silva/)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3effe882,100:8c0fee7a&height=120&section=footer"/>
