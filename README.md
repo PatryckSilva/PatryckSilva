@@ -24,8 +24,8 @@
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PatryckSilva&bg_color=ffffff00&color=663b9b&line=374d7fcc&point=8c0fee7a&area=false&hide_border=true)](https://github.com/PatryckSilva)
- 
+<!--  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PatryckSilva&bg_color=ffffff00&color=663b9b&line=374d7fcc&point=8c0fee7a&area=false&hide_border=true)](https://github.com/PatryckSilva) -->
+
 </div>
 
 ## My Skills
