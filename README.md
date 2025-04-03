@@ -8,7 +8,7 @@
 ## About Me
 
 - Exploring new technologies and developing software solutions.
-- Working as a Full Stack Developer at [Apex NFT Brasil](https://www.apexstudio.io/).
+- Working as a Full Stack Developer at [Apex NFT Brasil](https://apex-new-site-2024.vercel.app/).
 - Learning more about Web3, back-end, and front-end technologies.
 - Since 2022, I have been creating high-quality Front-end and Web3 solutions.
 
