@@ -10,7 +10,6 @@
 - Exploring new technologies and developing software solutions;
 - Working as a Full Stack Developer;
 - Learning more about Web3, back-end, and front-end technologies;
-- Since 2022, I have been creating high-quality Front-end and Web3 solutions.
 
 ## Activity
 <div align="center">
