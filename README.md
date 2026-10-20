@@ -8,8 +8,8 @@
 ## About Me
 
 - Exploring new technologies and developing software solutions;
-- Working as a Full Stack Developer;
-- Learning more about Web3, back-end, and front-end technologies;
+- Working as a Software Engineer;
+- Learning more about Web3, AI and web development technologies;
 
 ## Activity
 <div align="center">
